@@ -1,0 +1,26 @@
+{
+  "/login": {
+    "status": 200,
+    "code": "1000",
+    "msg": "登录成功",
+    "data": {
+      "username": "123",
+      "pass": "123",
+      "pyload": {
+        "test": "32323"
+      }
+    }
+  },
+  "/register": {
+    "status": 200,
+    "code": "1000",
+    "msg": "注册成功",
+    "data": {
+      "username": "123",
+      "pass": "123",
+      "pyload": {
+        "test": "32323"
+      }
+    }
+  }
+}

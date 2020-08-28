@@ -1,0 +1,19 @@
+{
+  "cssmfw/customHome/doGetCustomerPrivateInfo/web": [
+    {
+      "手机号码，格式错误，请检查输入！": "手机号码，格式错误，请检查输入！"
+    },
+    {
+      "手机号不能为空[mobile]": "手机号不能为空[mobile]"
+    },
+    {
+      "密码不能为空[password]": "密码不能为空[password]"
+    }
+  ],
+  "/user/getUserInfo": [
+    {
+      "没有授权验证": "没有授权验证"
+    },
+    {"授权验证已过期": "授权验证已过期"}
+  ]
+}

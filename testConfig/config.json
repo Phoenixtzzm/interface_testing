@@ -1,0 +1,19 @@
+[
+  {
+    "request": {
+      "uri": "/login",
+      "method": "post",
+      "json": {
+        "username": "",
+        "password": ""
+      }
+    },
+    "response": {
+      "json": {
+        "msg": "success",
+        "code": "200",
+        "user": "谈政"
+      }
+    }
+  }
+]
